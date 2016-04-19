@@ -1,0 +1,238 @@
+{
+  "title": "INCEPTION",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "2": {
+      "title": "Story Mapping",
+      "id": 23,
+      "ideas": {
+        "2": {
+          "title": "Pilares",
+          "id": 36
+        },
+        "12": {
+          "title": "Walking Skeleton",
+          "id": 35,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          98.00848388671875,
+          260.1903348363137,
+          3
+        ],
+        "style": {}
+      }
+    },
+    "-1": {
+      "title": "Contextualización",
+      "id": 8,
+      "ideas": {
+        "1": {
+          "title": "necesidad de negocio",
+          "id": 2,
+          "ideas": {
+            "1": {
+              "title": "Antes/después",
+              "id": 16,
+              "ideas": {
+                "1": {
+                  "title": "Actores",
+                  "id": 17
+                },
+                "2": {
+                  "title": "Métricas",
+                  "id": 18
+                }
+              }
+            },
+            "0.5": {
+              "title": "Porqué???",
+              "id": 37,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Definición de P.Base",
+          "id": 10,
+          "ideas": {
+            "1": {
+              "title": "Lo que ES",
+              "id": 11,
+              "ideas": {}
+            },
+            "2": {
+              "title": "Lo que NO ES",
+              "id": 12
+            },
+            "3": {
+              "title": "Propósito",
+              "id": 24,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        },
+        "7": {
+          "title": "Ambito",
+          "id": 21,
+          "ideas": {
+            "1": {
+              "title": "Segmentos",
+              "id": 13,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Canales",
+              "id": 14,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Marcas",
+              "id": 15,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        },
+        "17": {
+          "title": "Modelo de Proceso",
+          "id": 19,
+          "attr": {
+            "position": [
+              -6.0113525390625,
+              226.01416778564453,
+              1
+            ],
+            "style": {}
+          }
+        },
+        "1.5": {
+          "title": "Objetivo SMART",
+          "id": 40,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Specific",
+              "id": 42
+            },
+            "2": {
+              "title": "Measurable",
+              "id": 43
+            },
+            "3": {
+              "title": "Achievable",
+              "id": 44,
+              "attr": {
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "Realistic",
+              "id": 45
+            },
+            "5": {
+              "title": "Timed",
+              "id": 46
+            }
+          }
+        }
+      }
+    },
+    "0.5": {
+      "title": "Mapa de Impacto",
+      "id": 26,
+      "attr": {
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Actores",
+          "id": 27,
+          "ideas": {
+            "1": {
+              "title": "Principales",
+              "id": 29
+            },
+            "2": {
+              "title": "Secundarios",
+              "id": 30
+            },
+            "3": {
+              "title": "Fuera del escenario",
+              "id": 31
+            }
+          }
+        },
+        "2": {
+          "title": "Impactos",
+          "id": 28,
+          "ideas": {
+            "1": {
+              "title": "Cambio de comportamiento de actores",
+              "id": 32
+            },
+            "2": {
+              "title": "Cómo pueden ayudarnos",
+              "id": 33
+            },
+            "3": {
+              "title": "Cómo pueden bloquearnos",
+              "id": 34
+            }
+          }
+        }
+      }
+    },
+    "-0.5": {
+      "title": "Mesa redonda",
+      "id": 20,
+      "ideas": {
+        "1": {
+          "title": "Conversación. NO exposición",
+          "id": 22
+        }
+      },
+      "attr": {
+        "position": [
+          37.9971923828125,
+          -213.98580169677734,
+          2
+        ],
+        "style": {}
+      }
+    },
+    "1.25": {
+      "title": "Reflexión de Impacto previo a Story Mapping",
+      "id": 38,
+      "attr": {
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Enfocarse en el objetivo",
+          "id": 39
+        }
+      }
+    }
+  },
+  "links": []
+}
