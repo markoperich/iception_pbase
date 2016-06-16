@@ -1,0 +1,37 @@
+{
+  "title": "Desarrollo por componentes",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Aplicación Base",
+      "id": 2
+    },
+    "2": {
+      "title": "Beneficios",
+      "id": 9,
+      "ideas": {
+        "1": {
+          "title": "Instalación de Componentes por separado",
+          "id": 12
+        }
+      }
+    },
+    "-1": {
+      "title": "Componente (paquete bower)",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Plan de Bamboo",
+          "id": 4
+        },
+        "2": {
+          "title": "Tareas Grunt",
+          "id": 7,
+          "ideas": {}
+        }
+      }
+    }
+  },
+  "links": []
+}
