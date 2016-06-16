@@ -51,6 +51,24 @@
         }
       }
     },
+    "3": {
+      "title": "Catálogo de Mensajes",
+      "id": 39,
+      "ideas": {
+        "1": {
+          "title": "Mensages",
+          "id": 40
+        },
+        "2": {
+          "title": "Etiquetas",
+          "id": 41
+        },
+        "3": {
+          "title": "Placeholders",
+          "id": 42
+        }
+      }
+    },
     "-1": {
       "title": "Componente (paquete bower)",
       "id": 3,
