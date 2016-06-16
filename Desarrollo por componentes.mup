@@ -8,7 +8,7 @@
       "id": 9,
       "ideas": {
         "1": {
-          "title": "Instalaci髇 de Componentes por separado",
+          "title": "Instalaci贸n de Componentes por separado",
           "id": 12
         },
         "2": {
@@ -29,7 +29,7 @@
           }
         },
         "3": {
-          "title": "Instalaci髇 de dependencias Base ",
+          "title": "Instalaci贸n de dependencias Base ",
           "id": 15,
           "ideas": {
             "1": {
@@ -49,10 +49,18 @@
             "style": {}
           }
         }
+      },
+      "attr": {
+        "position": [
+          212.50567626953125,
+          -159.49431610107422,
+          4
+        ],
+        "style": {}
       }
     },
     "3": {
-      "title": "Cat醠ogo de Mensajes",
+      "title": "Cat谩logo de Mensajes",
       "id": 39,
       "ideas": {
         "1": {
@@ -67,6 +75,14 @@
           "title": "Placeholders",
           "id": 42
         }
+      },
+      "attr": {
+        "position": [
+          207.50567626953125,
+          151.51416778564453,
+          5
+        ],
+        "style": {}
       }
     },
     "-1": {
@@ -82,11 +98,11 @@
               "id": 23
             },
             "3": {
-              "title": "Revisi髇 de Sonar",
+              "title": "Revisi贸n de Sonar",
               "id": 24
             },
             "13": {
-              "title": "Instala conponente en vendor de aplicaci髇",
+              "title": "Instala conponente en vendor de aplicaci贸n",
               "id": 20,
               "attr": {
                 "style": {}
@@ -128,15 +144,15 @@
       },
       "attr": {
         "position": [
-          196.5,
-          128.01416778564453,
+          212.49432373046875,
+          206.51416778564453,
           2
         ],
         "style": {}
       }
     },
     "-0.5": {
-      "title": "Aplicaci髇 Base",
+      "title": "Aplicaci贸n Base",
       "id": 2,
       "ideas": {
         "1": {
@@ -144,15 +160,15 @@
           "id": 19,
           "ideas": {
             "1": {
-              "title": "Ejecuta Test con integraci髇 actual",
+              "title": "Ejecuta Test con integraci贸n actual",
               "id": 27
             },
             "2": {
-              "title": "Revisi髇 Sonar",
+              "title": "Revisi贸n Sonar",
               "id": 28
             },
             "3": {
-              "title": "Genera instalaci髇 SIN Componentes",
+              "title": "Genera instalaci贸n SIN Componentes",
               "id": 29
             }
           }
@@ -170,9 +186,9 @@
       },
       "attr": {
         "position": [
-          239,
-          -130,
-          1
+          248.4971923828125,
+          -183.48580169677734,
+          3
         ],
         "style": {}
       }
