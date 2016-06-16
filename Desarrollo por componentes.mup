@@ -3,10 +3,6 @@
   "id": 1,
   "formatVersion": 2,
   "ideas": {
-    "1": {
-      "title": "Aplicación Base",
-      "id": 2
-    },
     "2": {
       "title": "Beneficios",
       "id": 9,
@@ -14,6 +10,44 @@
         "1": {
           "title": "Instalación de Componentes por separado",
           "id": 12
+        },
+        "2": {
+          "title": "No usar Localstorage para almacenar datos ",
+          "id": 14,
+          "ideas": {
+            "1": {
+              "title": "Contexto Cliente",
+              "id": 37
+            },
+            "2": {
+              "title": "Contexto Ejecutivo",
+              "id": 38
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Instalación de dependencias Base ",
+          "id": 15,
+          "ideas": {
+            "1": {
+              "title": "Angular",
+              "id": 16
+            },
+            "2": {
+              "title": "Bootstrap",
+              "id": 17
+            },
+            "3": {
+              "title": "Etc..",
+              "id": 18
+            }
+          },
+          "attr": {
+            "style": {}
+          }
         }
       }
     },
@@ -23,13 +57,106 @@
       "ideas": {
         "1": {
           "title": "Plan de Bamboo",
-          "id": 4
+          "id": 4,
+          "ideas": {
+            "2": {
+              "title": "Ejecuta Test",
+              "id": 23
+            },
+            "3": {
+              "title": "Revisión de Sonar",
+              "id": 24
+            },
+            "13": {
+              "title": "Instala conponente en vendor de aplicación",
+              "id": 20,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
         },
         "2": {
           "title": "Tareas Grunt",
           "id": 7,
-          "ideas": {}
+          "ideas": {
+            "1": {
+              "title": "Genera artefacto de componente",
+              "id": 21
+            },
+            "2": {
+              "title": "Ambientes Desarollo y QA/Prod",
+              "id": 22
+            }
+          }
+        },
+        "3": {
+          "title": "Elementos Reutilizables",
+          "id": 32,
+          "ideas": {
+            "1": {
+              "title": "Directivas",
+              "id": 34
+            },
+            "2": {
+              "title": "Acceso a Modelo",
+              "id": 36
+            }
+          },
+          "attr": {
+            "style": {}
+          }
         }
+      },
+      "attr": {
+        "position": [
+          196.5,
+          128.01416778564453,
+          2
+        ],
+        "style": {}
+      }
+    },
+    "-0.5": {
+      "title": "Aplicación Base",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Plan Bamboo",
+          "id": 19,
+          "ideas": {
+            "1": {
+              "title": "Ejecuta Test con integración actual",
+              "id": 27
+            },
+            "2": {
+              "title": "Revisión Sonar",
+              "id": 28
+            },
+            "3": {
+              "title": "Genera instalación SIN Componentes",
+              "id": 29
+            }
+          }
+        },
+        "2": {
+          "title": "Tareas Grunt",
+          "id": 25,
+          "ideas": {
+            "1": {
+              "title": "Genera Instalación Base",
+              "id": 26
+            }
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          239,
+          -130,
+          1
+        ],
+        "style": {}
       }
     }
   },
