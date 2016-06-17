@@ -8,7 +8,7 @@
       "id": 9,
       "ideas": {
         "1": {
-          "title": "Instalaci贸n de Componentes por separado",
+          "title": "Instalaci髇 de Componentes por separado",
           "id": 12
         },
         "2": {
@@ -29,7 +29,7 @@
           }
         },
         "3": {
-          "title": "Instalaci贸n de dependencias Base ",
+          "title": "Instalaci脙鲁n de dependencias Base ",
           "id": 15,
           "ideas": {
             "1": {
@@ -60,7 +60,7 @@
       }
     },
     "3": {
-      "title": "Cat谩logo de Mensajes",
+      "title": "Cat脙隆logo de Mensajes",
       "id": 39,
       "ideas": {
         "1": {
@@ -98,11 +98,11 @@
               "id": 23
             },
             "3": {
-              "title": "Revisi贸n de Sonar",
+              "title": "Revisi脙鲁n de Sonar",
               "id": 24
             },
             "13": {
-              "title": "Instala conponente en vendor de aplicaci贸n",
+              "title": "Instala conponente en vendor de aplicaci脙鲁n",
               "id": 20,
               "attr": {
                 "style": {}
@@ -152,7 +152,7 @@
       }
     },
     "-0.5": {
-      "title": "Aplicaci贸n Base",
+      "title": "Aplicaci髇 Base",
       "id": 2,
       "ideas": {
         "1": {
@@ -160,15 +160,15 @@
           "id": 19,
           "ideas": {
             "1": {
-              "title": "Ejecuta Test con integraci贸n actual",
+              "title": "Ejecuta Test con integraci脙鲁n actual",
               "id": 27
             },
             "2": {
-              "title": "Revisi贸n Sonar",
+              "title": "Revisi脙鲁n Sonar",
               "id": 28
             },
             "3": {
-              "title": "Genera instalaci贸n SIN Componentes",
+              "title": "Genera instalaci脙鲁n SIN Componentes",
               "id": 29
             }
           }
@@ -178,7 +178,7 @@
           "id": 25,
           "ideas": {
             "1": {
-              "title": "Genera Instalaci髇 Base",
+              "title": "Genera Instalaci贸n Base",
               "id": 26
             }
           }
