@@ -7,138 +7,66 @@
       "title": "Formacion de Equipo",
       "id": 6,
       "ideas": {
-        "1": {
-          "title": "Actitud",
-          "id": 7
-        },
-        "2": {
-          "title": "Conocimiento",
-          "id": 8
-        },
-        "3": {
-          "title": "Autonomia",
-          "id": 9,
-          "ideas": {}
-        },
-        "4": {
-          "title": "Multidisciplinario",
-          "id": 31
-        },
-        "5": {
-          "title": "Cumplimiento de compromisos",
-          "id": 32
-        },
         "6": {
           "title": "Incentivos",
           "id": 52
+        },
+        "7": {
+          "title": "Persona",
+          "id": 53,
+          "ideas": {
+            "1": {
+              "title": "Actitud",
+              "id": 7,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Conocimiento",
+              "id": 8,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Autonomia",
+              "id": 9,
+              "ideas": {},
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        },
+        "8": {
+          "title": "Grupo",
+          "id": 54,
+          "ideas": {
+            "1": {
+              "title": "Multidisciplinario",
+              "id": 31,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Cumplimiento de compromisos",
+              "id": 32,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
         }
       },
       "attr": {
         "position": [
-          103.5113525390625,
-          -117.9914779663086,
-          2
+          88.5113525390625,
+          152.3778020606553,
+          6
         ],
         "style": {}
-      }
-    },
-    "10": {
-      "title": "Agilidad",
-      "id": 2,
-      "ideas": {
-        "1": {
-          "title": "No es rapidez",
-          "id": 5
-        },
-        "2": {
-          "title": "No es Scrum",
-          "id": 21
-        },
-        "3": {
-          "title": "Usain Bolt vs Tomás Gonzales",
-          "id": 51
-        }
-      }
-    },
-    "-2": {
-      "title": "Desarrollo",
-      "id": 17,
-      "ideas": {
-        "1": {
-          "title": "Proceso",
-          "id": 19,
-          "ideas": {
-            "1": {
-              "title": "C. Integration",
-              "id": 34,
-              "ideas": {}
-            },
-            "2": {
-              "title": "C. Delivery",
-              "id": 36
-            },
-            "3": {
-              "title": "C. Deployment",
-              "id": 37
-            }
-          }
-        },
-        "3": {
-          "title": "Calidad",
-          "id": 39,
-          "ideas": {
-            "2": {
-              "title": "Estandares/Convenciones",
-              "id": 20,
-              "ideas": {
-                "1": {
-                  "title": "Code Review",
-                  "id": 44,
-                  "attr": {
-                    "style": {}
-                  }
-                },
-                "2": {
-                  "title": "PMD/Findbugs/Sonar",
-                  "id": 45,
-                  "attr": {
-                    "style": {}
-                  }
-                }
-              },
-              "attr": {
-                "style": {}
-              }
-            },
-            "12": {
-              "title": "Automatizacon de Test",
-              "id": 40,
-              "attr": {
-                "style": {}
-              },
-              "ideas": {
-                "1": {
-                  "title": "Tests Unitarios",
-                  "id": 46,
-                  "attr": {
-                    "style": {}
-                  }
-                },
-                "2": {
-                  "title": "Test De integración",
-                  "id": 47,
-                  "attr": {
-                    "style": {}
-                  }
-                }
-              }
-            }
-          }
-        },
-        "1.5": {
-          "title": "Herramientas",
-          "id": 38
-        }
       }
     },
     "-0.5": {
@@ -194,6 +122,121 @@
           106.5,
           -185.98863983154297,
           3
+        ],
+        "style": {}
+      }
+    },
+    "2.5": {
+      "title": "Desarrollo",
+      "id": 17,
+      "ideas": {
+        "1": {
+          "title": "Proceso",
+          "id": 19,
+          "ideas": {
+            "1": {
+              "title": "C. Integration",
+              "id": 34,
+              "ideas": {}
+            },
+            "2": {
+              "title": "C. Delivery",
+              "id": 36
+            },
+            "3": {
+              "title": "C. Deployment",
+              "id": 37
+            }
+          }
+        },
+        "3": {
+          "title": "Calidad",
+          "id": 39,
+          "ideas": {
+            "2": {
+              "title": "Estandares/Convenciones",
+              "id": 20,
+              "ideas": {
+                "1": {
+                  "title": "Code Review",
+                  "id": 44,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "PMD/Findbugs/Sonar",
+                  "id": 45,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "12": {
+              "title": "Automatizacion de Test",
+              "id": 40,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Tests Unitarios",
+                  "id": 46,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "Test De integracion",
+                  "id": 47,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            }
+          }
+        },
+        "1.5": {
+          "title": "Herramientas",
+          "id": 38
+        }
+      },
+      "attr": {
+        "position": [
+          104.50567626953125,
+          -195.61932928700088,
+          7
+        ],
+        "style": {}
+      }
+    },
+    "-10.5": {
+      "title": "Agilidad",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "No es rapidez",
+          "id": 5
+        },
+        "2": {
+          "title": "No es Scrum",
+          "id": 21
+        },
+        "3": {
+          "title": "Usain Bolt vs Tomás Gonzales",
+          "id": 51
+        }
+      },
+      "attr": {
+        "position": [
+          110.49151611328125,
+          154.38067071299906,
+          8
         ],
         "style": {}
       }
