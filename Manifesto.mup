@@ -1,0 +1,130 @@
+{
+  "title": "Manifesto",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "10": {
+      "title": "Agilidad",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "No es rapidez",
+          "id": 5
+        },
+        "2": {
+          "title": "No es Scrum",
+          "id": 21
+        }
+      }
+    },
+    "11": {
+      "title": "Historia",
+      "id": 12,
+      "ideas": {
+        "1": {
+          "title": "30+ años",
+          "id": 14,
+          "ideas": {
+            "1": {
+              "title": "Lenguajes",
+              "id": 22,
+              "ideas": {}
+            },
+            "2": {
+              "title": "Bases de Datos",
+              "id": 25,
+              "ideas": {}
+            },
+            "3": {
+              "title": "Frameworks",
+              "id": 27,
+              "ideas": {}
+            }
+          }
+        },
+        "2": {
+          "title": "Aprendizaje contínuo",
+          "id": 15
+        },
+        "3": {
+          "title": "Orientado a la calidad",
+          "id": 16
+        }
+      }
+    },
+    "-1": {
+      "title": "Formación de Equipo",
+      "id": 6,
+      "ideas": {
+        "1": {
+          "title": "Actitud",
+          "id": 7
+        },
+        "2": {
+          "title": "Conocimiento",
+          "id": 8
+        },
+        "3": {
+          "title": "Autonomía",
+          "id": 9,
+          "ideas": {}
+        },
+        "4": {
+          "title": "Multidisciplinario",
+          "id": 31
+        },
+        "5": {
+          "title": "Cumplimiento de compromisos",
+          "id": 32
+        }
+      }
+    },
+    "-2": {
+      "title": "Desarrollo",
+      "id": 17,
+      "ideas": {
+        "1": {
+          "title": "Proceso",
+          "id": 19,
+          "ideas": {
+            "1": {
+              "title": "C. Integration",
+              "id": 34,
+              "ideas": {}
+            },
+            "2": {
+              "title": "C. Delivery",
+              "id": 36
+            },
+            "3": {
+              "title": "C. Deployment",
+              "id": 37
+            }
+          }
+        },
+        "2": {
+          "title": "Estándares/Convenciones",
+          "id": 20
+        },
+        "3": {
+          "title": "Calidad",
+          "id": 39,
+          "ideas": {
+            "1": {
+              "title": "Automatización de Test",
+              "id": 40,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        },
+        "1.5": {
+          "title": "Herramientas",
+          "id": 38
+        }
+      }
+    }
+  },
+  "links": []
+}
