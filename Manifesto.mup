@@ -7,10 +7,6 @@
       "title": "Formacion de Equipo",
       "id": 6,
       "ideas": {
-        "6": {
-          "title": "Incentivos",
-          "id": 52
-        },
         "7": {
           "title": "Persona",
           "id": 53,
@@ -56,15 +52,34 @@
               "attr": {
                 "style": {}
               }
+            },
+            "3": {
+              "title": "Una historia es compromiso del equipo",
+              "id": 55
             }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "18": {
+          "title": "Incentivos",
+          "id": 52,
+          "attr": {
+            "position": [
+              166.4175137409493,
+              159.80963490620127,
+              1
+            ],
+            "style": {}
           }
         }
       },
       "attr": {
         "position": [
-          88.5113525390625,
-          152.3778020606553,
-          6
+          89.4204434284494,
+          201.65339501042024,
+          9
         ],
         "style": {}
       }
