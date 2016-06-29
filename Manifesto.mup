@@ -3,18 +3,113 @@
   "id": 1,
   "formatVersion": 2,
   "ideas": {
-    "10": {
-      "title": "Agilidad",
-      "id": 2,
+    "5": {
+      "title": "Desarrollo",
+      "id": 17,
       "ideas": {
         "1": {
-          "title": "No es rapidez",
-          "id": 5
+          "title": "Proceso",
+          "id": 19,
+          "ideas": {
+            "4": {
+              "title": "Automated Building",
+              "id": 42,
+              "ideas": {
+                "1": {
+                  "title": "C. Deployment",
+                  "id": 37,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "C. Delivery",
+                  "id": 36,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "C. Integration",
+                  "id": 34,
+                  "ideas": {},
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
         },
         "2": {
-          "title": "No es Scrum",
-          "id": 21
+          "title": "Estándares/Convenciones",
+          "id": 20,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Calidad",
+          "id": 39,
+          "ideas": {
+            "1": {
+              "title": "Automatización de Test",
+              "id": 40,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "1.5": {
+          "title": "Herramientas",
+          "id": 38,
+          "ideas": {
+            "1": {
+              "title": "IDE / No-IDE",
+              "id": 43,
+              "ideas": {},
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Maven",
+              "id": 45,
+              "ideas": {},
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Grunt",
+              "id": 47,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
         }
+      },
+      "attr": {
+        "style": {},
+        "position": [
+          172.99993896484375,
+          -312.4375045201009,
+          1
+        ]
       }
     },
     "11": {
@@ -28,103 +123,154 @@
             "1": {
               "title": "Lenguajes",
               "id": 22,
-              "ideas": {}
+              "ideas": {},
+              "attr": {
+                "style": {}
+              }
             },
             "2": {
               "title": "Bases de Datos",
               "id": 25,
-              "ideas": {}
+              "ideas": {},
+              "attr": {
+                "style": {}
+              }
             },
             "3": {
               "title": "Frameworks",
               "id": 27,
-              "ideas": {}
+              "ideas": {},
+              "attr": {
+                "style": {}
+              }
             }
+          },
+          "attr": {
+            "style": {}
           }
         },
         "2": {
           "title": "Aprendizaje contínuo",
-          "id": 15
+          "id": 15,
+          "attr": {
+            "style": {}
+          }
         },
         "3": {
           "title": "Orientado a la calidad",
-          "id": 16
+          "id": 16,
+          "attr": {
+            "style": {}
+          }
         }
+      },
+      "attr": {
+        "style": {}
       }
     },
     "-1": {
       "title": "Formación de Equipo",
       "id": 6,
       "ideas": {
-        "1": {
-          "title": "Actitud",
-          "id": 7
-        },
-        "2": {
-          "title": "Conocimiento",
-          "id": 8
-        },
-        "3": {
-          "title": "Autonomía",
-          "id": 9,
-          "ideas": {}
-        },
-        "4": {
-          "title": "Multidisciplinario",
-          "id": 31
-        },
-        "5": {
-          "title": "Cumplimiento de compromisos",
-          "id": 32
-        }
-      }
-    },
-    "-2": {
-      "title": "Desarrollo",
-      "id": 17,
-      "ideas": {
-        "1": {
-          "title": "Proceso",
-          "id": 19,
+        "6": {
+          "title": "Personas",
+          "id": 50,
           "ideas": {
             "1": {
-              "title": "C. Integration",
-              "id": 34,
+              "title": "Automotivación",
+              "id": 49,
+              "attr": {
+                "style": {}
+              },
               "ideas": {}
             },
             "2": {
-              "title": "C. Delivery",
-              "id": 36
+              "title": "Autonomía",
+              "id": 9,
+              "ideas": {},
+              "attr": {
+                "style": {}
+              }
             },
             "3": {
-              "title": "C. Deployment",
-              "id": 37
-            }
-          }
-        },
-        "2": {
-          "title": "Estándares/Convenciones",
-          "id": 20
-        },
-        "3": {
-          "title": "Calidad",
-          "id": 39,
-          "ideas": {
-            "1": {
-              "title": "Automatización de Test",
-              "id": 40,
+              "title": "Conocimiento",
+              "id": 8,
+              "attr": {
+                "style": {}
+              }
+            },
+            "0.5": {
+              "title": "Actitud",
+              "id": 7,
               "attr": {
                 "style": {}
               }
             }
           }
         },
-        "1.5": {
-          "title": "Herramientas",
-          "id": 38
+        "7": {
+          "title": "Grupo",
+          "id": 51,
+          "ideas": {
+            "1": {
+              "title": "Cumplimiento de compromisos",
+              "id": 32,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Multidisciplinario",
+              "id": 31,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
         }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "-11": {
+      "title": "Agilidad",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "No es rapidez",
+          "id": 5,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "No es Scrum",
+          "id": 21,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "No es una religión ",
+          "id": 48
+        }
+      },
+      "attr": {
+        "style": {},
+        "position": [
+          121.9971923828125,
+          212.55394292862957,
+          2
+        ]
       }
     }
   },
-  "links": []
+  "links": [],
+  "attr": {
+    "storyboards": [
+      "Storyboard 1"
+    ],
+    "style": {}
+  }
 }
