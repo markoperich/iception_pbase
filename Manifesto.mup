@@ -4,6 +4,63 @@
   "formatVersion": 2,
   "ideas": {
     "5": {
+      "title": "Formacion de Equipo",
+      "id": 6,
+      "ideas": {
+        "1": {
+          "title": "Actitud",
+          "id": 7
+        },
+        "2": {
+          "title": "Conocimiento",
+          "id": 8
+        },
+        "3": {
+          "title": "Autonomia",
+          "id": 9,
+          "ideas": {}
+        },
+        "4": {
+          "title": "Multidisciplinario",
+          "id": 31
+        },
+        "5": {
+          "title": "Cumplimiento de compromisos",
+          "id": 32
+        },
+        "6": {
+          "title": "Incentivos",
+          "id": 52
+        }
+      },
+      "attr": {
+        "position": [
+          103.5113525390625,
+          -117.9914779663086,
+          2
+        ],
+        "style": {}
+      }
+    },
+    "10": {
+      "title": "Agilidad",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "No es rapidez",
+          "id": 5
+        },
+        "2": {
+          "title": "No es Scrum",
+          "id": 21
+        },
+        "3": {
+          "title": "Usain Bolt vs Tomás Gonzales",
+          "id": 51
+        }
+      }
+    },
+    "-2": {
       "title": "Desarrollo",
       "id": 17,
       "ideas": {
@@ -11,28 +68,39 @@
           "title": "Proceso",
           "id": 19,
           "ideas": {
-            "4": {
-              "title": "Automated Building",
-              "id": 42,
+            "1": {
+              "title": "C. Integration",
+              "id": 34,
+              "ideas": {}
+            },
+            "2": {
+              "title": "C. Delivery",
+              "id": 36
+            },
+            "3": {
+              "title": "C. Deployment",
+              "id": 37
+            }
+          }
+        },
+        "3": {
+          "title": "Calidad",
+          "id": 39,
+          "ideas": {
+            "2": {
+              "title": "Estandares/Convenciones",
+              "id": 20,
               "ideas": {
                 "1": {
-                  "title": "C. Deployment",
-                  "id": 37,
+                  "title": "Code Review",
+                  "id": 44,
                   "attr": {
                     "style": {}
                   }
                 },
                 "2": {
-                  "title": "C. Delivery",
-                  "id": 36,
-                  "attr": {
-                    "style": {}
-                  }
-                },
-                "3": {
-                  "title": "C. Integration",
-                  "id": 34,
-                  "ideas": {},
+                  "title": "PMD/Findbugs/Sonar",
+                  "id": 45,
                   "attr": {
                     "style": {}
                   }
@@ -41,236 +109,95 @@
               "attr": {
                 "style": {}
               }
-            }
-          },
-          "attr": {
-            "style": {}
-          }
-        },
-        "2": {
-          "title": "Estándares/Convenciones",
-          "id": 20,
-          "attr": {
-            "style": {}
-          }
-        },
-        "3": {
-          "title": "Calidad",
-          "id": 39,
-          "ideas": {
-            "1": {
-              "title": "Automatización de Test",
+            },
+            "12": {
+              "title": "Automatizacon de Test",
               "id": 40,
               "attr": {
                 "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Tests Unitarios",
+                  "id": 46,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "Test De integración",
+                  "id": 47,
+                  "attr": {
+                    "style": {}
+                  }
+                }
               }
             }
-          },
-          "attr": {
-            "style": {}
           }
         },
         "1.5": {
           "title": "Herramientas",
-          "id": 38,
-          "ideas": {
-            "1": {
-              "title": "IDE / No-IDE",
-              "id": 43,
-              "ideas": {},
-              "attr": {
-                "style": {}
-              }
-            },
-            "2": {
-              "title": "Maven",
-              "id": 45,
-              "ideas": {},
-              "attr": {
-                "style": {}
-              }
-            },
-            "3": {
-              "title": "Grunt",
-              "id": 47,
-              "attr": {
-                "style": {}
-              }
-            }
-          },
-          "attr": {
-            "style": {}
-          }
+          "id": 38
         }
-      },
-      "attr": {
-        "style": {},
-        "position": [
-          172.99993896484375,
-          -312.4375045201009,
-          1
-        ]
       }
     },
-    "11": {
+    "-0.5": {
       "title": "Historia",
       "id": 12,
       "ideas": {
         "1": {
-          "title": "30+ años",
+          "title": "30+ anios",
           "id": 14,
           "ideas": {
             "1": {
               "title": "Lenguajes",
               "id": 22,
-              "ideas": {},
-              "attr": {
-                "style": {}
-              }
+              "ideas": {}
             },
             "2": {
               "title": "Bases de Datos",
               "id": 25,
-              "ideas": {},
-              "attr": {
-                "style": {}
-              }
+              "ideas": {}
             },
             "3": {
               "title": "Frameworks",
               "id": 27,
-              "ideas": {},
-              "attr": {
-                "style": {}
-              }
+              "ideas": {}
             }
-          },
-          "attr": {
-            "style": {}
           }
         },
         "2": {
-          "title": "Aprendizaje contínuo",
+          "title": "Aprendizaje contí­nuo",
           "id": 15,
-          "attr": {
-            "style": {}
-          }
-        },
-        "3": {
-          "title": "Orientado a la calidad",
-          "id": 16,
-          "attr": {
-            "style": {}
-          }
-        }
-      },
-      "attr": {
-        "style": {}
-      }
-    },
-    "-1": {
-      "title": "Formación de Equipo",
-      "id": 6,
-      "ideas": {
-        "6": {
-          "title": "Personas",
-          "id": 50,
           "ideas": {
             "1": {
-              "title": "Automotivación",
-              "id": 49,
-              "attr": {
-                "style": {}
-              },
-              "ideas": {}
+              "title": "Desarrollador",
+              "id": 41
             },
             "2": {
-              "title": "Autonomía",
-              "id": 9,
-              "ideas": {},
-              "attr": {
-                "style": {}
-              }
+              "title": "Jefe de Proyecto",
+              "id": 42
             },
             "3": {
-              "title": "Conocimiento",
-              "id": 8,
-              "attr": {
-                "style": {}
-              }
-            },
-            "0.5": {
-              "title": "Actitud",
-              "id": 7,
-              "attr": {
-                "style": {}
-              }
+              "title": "Scrum Master",
+              "id": 43
             }
-          }
-        },
-        "7": {
-          "title": "Grupo",
-          "id": 51,
-          "ideas": {
-            "1": {
-              "title": "Cumplimiento de compromisos",
-              "id": 32,
-              "attr": {
-                "style": {}
-              }
-            },
-            "2": {
-              "title": "Multidisciplinario",
-              "id": 31,
-              "attr": {
-                "style": {}
-              }
-            }
-          }
-        }
-      },
-      "attr": {
-        "style": {}
-      }
-    },
-    "-11": {
-      "title": "Agilidad",
-      "id": 2,
-      "ideas": {
-        "1": {
-          "title": "No es rapidez",
-          "id": 5,
-          "attr": {
-            "style": {}
-          }
-        },
-        "2": {
-          "title": "No es Scrum",
-          "id": 21,
-          "attr": {
-            "style": {}
           }
         },
         "3": {
-          "title": "No es una religión ",
-          "id": 48
+          "title": "Orientado al proceso",
+          "id": 16
         }
       },
       "attr": {
-        "style": {},
         "position": [
-          121.9971923828125,
-          212.55394292862957,
-          2
-        ]
+          106.5,
+          -185.98863983154297,
+          3
+        ],
+        "style": {}
       }
     }
   },
-  "links": [],
-  "attr": {
-    "storyboards": [
-      "Storyboard 1"
-    ],
-    "style": {}
-  }
+  "links": []
 }
