@@ -110,7 +110,7 @@
           }
         },
         "2": {
-          "title": "Aprendizaje contí­nuo",
+          "title": "Aprendizaje contÃ­Â­nuo",
           "id": 15,
           "ideas": {
             "1": {
@@ -128,7 +128,7 @@
           }
         },
         "3": {
-          "title": "Orientado al proceso",
+          "title": "Negocio+Proceso+Calidad",
           "id": 16
         }
       },
@@ -223,9 +223,9 @@
       },
       "attr": {
         "position": [
-          104.50567626953125,
-          -195.61932928700088,
-          7
+          102.00567626953125,
+          -227.3466002212083,
+          10
         ],
         "style": {}
       }
@@ -243,8 +243,26 @@
           "id": 21
         },
         "3": {
-          "title": "Usain Bolt vs Tomás Gonzales",
+          "title": "Usain Bolt vs TomÃ¡s Gonzales",
           "id": 51
+        },
+        "4": {
+          "title": "Metodologías/Frameworks",
+          "id": 56,
+          "ideas": {
+            "1": {
+              "title": "Scrum",
+              "id": 57
+            },
+            "2": {
+              "title": "Kanban",
+              "id": 58
+            },
+            "3": {
+              "title": "XP",
+              "id": 59
+            }
+          }
         }
       },
       "attr": {
