@@ -236,15 +236,20 @@
       "ideas": {
         "1": {
           "title": "No es rapidez",
-          "id": 5
+          "id": 5,
+          "ideas": {
+            "1": {
+              "title": "Usain Bolt vs Tomas Gonzales",
+              "id": 51,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
         },
         "2": {
           "title": "No es Scrum",
           "id": 21
-        },
-        "3": {
-          "title": "Usain Bolt vs TomÃ¡s Gonzales",
-          "id": 51
         },
         "4": {
           "title": "Metodologías/Frameworks",
@@ -267,9 +272,9 @@
       },
       "attr": {
         "position": [
-          110.49151611328125,
-          154.38067071299906,
-          8
+          112.99151611328125,
+          137.28408641657552,
+          11
         ],
         "style": {}
       }
