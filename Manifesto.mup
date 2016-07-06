@@ -73,6 +73,24 @@
             ],
             "style": {}
           }
+        },
+        "19": {
+          "title": "Rol de Líder de Equipo",
+          "id": 60,
+          "ideas": {
+            "1": {
+              "title": "Definir ante caminos alternativos",
+              "id": 62
+            },
+            "2": {
+              "title": "Convencer, no obligar",
+              "id": 63
+            },
+            "3": {
+              "title": "Escuchar",
+              "id": 64
+            }
+          }
         }
       },
       "attr": {
@@ -110,7 +128,7 @@
           }
         },
         "2": {
-          "title": "Aprendizaje conti­nuo",
+          "title": "Aprendizaje contiÂ­nuo",
           "id": 15,
           "ideas": {
             "1": {
@@ -252,7 +270,7 @@
           "id": 21
         },
         "4": {
-          "title": "Metodologías/Frameworks",
+          "title": "MetodologÃ­as/Frameworks",
           "id": 56,
           "ideas": {
             "1": {
