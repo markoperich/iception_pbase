@@ -4,20 +4,59 @@
   "formatVersion": 2,
   "ideas": {
     "1": {
-      "title": "Aprobación de Tasas",
-      "id": 2
+      "title": "Aprobacion de Tasas",
+      "id": 2,
+      "attr": {
+        "style": {
+          "background": "transparent"
+        }
+      }
     },
     "11": {
       "title": "Monto preaprobado",
-      "id": 3
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Serv. Monto Preaprobado ",
+          "id": 11
+        }
+      }
     },
     "21": {
-      "title": "Evaluación de riesgo",
-      "id": 4
+      "title": "Evaluacion de riesgo",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "BPM",
+          "id": 14
+        }
+      }
+    },
+    "22": {
+      "title": "Impresion de Documentos",
+      "id": 9
+    },
+    "23": {
+      "title": "Log de Gestion",
+      "id": 12
     },
     "-1": {
-      "title": "Curse del crédito",
-      "id": 6
+      "title": "Curse del credito",
+      "id": 6,
+      "ideas": {
+        "1": {
+          "title": "Visado",
+          "id": 16
+        },
+        "2": {
+          "title": "Servicio de Curse",
+          "id": 17
+        },
+        "3": {
+          "title": "Contabilidad",
+          "id": 18
+        }
+      }
     },
     "-2": {
       "title": "Hub Contable",
@@ -26,6 +65,20 @@
     "-3": {
       "title": "Escalamiento",
       "id": 8
+    },
+    "-4": {
+      "title": "Refundido de Creditos",
+      "id": 10
+    },
+    "-5": {
+      "title": "Core",
+      "id": 19,
+      "ideas": {
+        "1": {
+          "title": "Creacion de Canal",
+          "id": 20
+        }
+      }
     }
   },
   "links": []
