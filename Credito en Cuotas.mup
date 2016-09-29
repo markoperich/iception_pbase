@@ -1,0 +1,32 @@
+{
+  "title": "Credito en Cuotas",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Aprobación de Tasas",
+      "id": 2
+    },
+    "11": {
+      "title": "Monto preaprobado",
+      "id": 3
+    },
+    "21": {
+      "title": "Evaluación de riesgo",
+      "id": 4
+    },
+    "-1": {
+      "title": "Curse del crédito",
+      "id": 6
+    },
+    "-2": {
+      "title": "Hub Contable",
+      "id": 7
+    },
+    "-3": {
+      "title": "Escalamiento",
+      "id": 8
+    }
+  },
+  "links": []
+}
